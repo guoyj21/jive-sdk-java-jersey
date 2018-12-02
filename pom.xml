@@ -46,7 +46,7 @@
         <glassfish-jersey-client-version>2.4.1</glassfish-jersey-client-version>
         <jetty-version>9.1.1.v20140108</jetty-version>
         <slf4j-version>1.7.5</slf4j-version>
-        <spring-version>3.2.5.RELEASE</spring-version>
+        <spring-version>3.2.9.RELEASE</spring-version>
     </properties>
 
     <build>
