@@ -42,11 +42,11 @@
         <!-- INCREMENT AFTER EACH BUILD -->
         <jive-sdk-java-jersey-version>1.0.0.0</jive-sdk-java-jersey-version>
         <jersey-version>1.8</jersey-version>
-        <glassfish-jersey-version>2.5.1</glassfish-jersey-version>
+        <glassfish-jersey-version>2.6</glassfish-jersey-version>
         <glassfish-jersey-client-version>2.4.1</glassfish-jersey-client-version>
         <jetty-version>9.1.1.v20140108</jetty-version>
         <slf4j-version>1.7.5</slf4j-version>
-        <spring-version>3.2.5.RELEASE</spring-version>
+        <spring-version>3.2.9.RELEASE</spring-version>
     </properties>
 
     <build>
@@ -179,7 +179,7 @@
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
-            <version>1.8.3</version>
+            <version>1.9.2</version>
         </dependency>
         <dependency>
               <groupId>commons-codec</groupId>
